@@ -11,3 +11,32 @@ h1{
 #id2 {
     background-color:  green
 }
+
+.main-content {
+    background-color: yellow;
+}
+
+
+p{
+    text-align: center;
+}
+
+h2{
+    text-decoration-line: underline;
+}
+
+h3{ 
+    text-decoration-line: underline;
+}
+
+h4 {
+    text-decoration-line: underline;
+}
+
+h5 {
+    text-decoration-line: underline;  
+}
+
+h6 {
+    text-decoration-line: underline;
+}
