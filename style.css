@@ -60,3 +60,7 @@ id5{
 heading{
     text-transform:uppercase ;
 }
+
+.capitalize-call {
+    transform transition-property: capitalize;
+}
