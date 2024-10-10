@@ -56,3 +56,7 @@ id5{
 .coustom fount {
     font-family: 'Times New Roman', Times, serif ;
 }
+
+heading{
+    text-transform:uppercase ;
+}
